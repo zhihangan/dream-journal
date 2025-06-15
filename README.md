@@ -1,12 +1,12 @@
 # Dream Journal
 
-An easy way to record and keep track of your dreams. 
+An easy way to record and keep track of your dreams
 
 # Features
-Write and save dreams by the date
-Search for certain dreams with keywords
-Record yourself describing your dreams and have the transcribed text (and possibly AI summaries) saved to that dream's record
-(Coming later)  
+-Write and save dreams by the date
+-Search for certain dreams with keywords
+-Record yourself describing your dreams and have the transcribed text (and possibly AI summaries) saved to that dream's record
+-(Coming later) multi-user login?
 
 ## Tech Stack
 
